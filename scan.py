@@ -1,4 +1,5 @@
 #written by fyraiga 
+#uso: scan.py [ip]
 #POC adapted from FireFart CVE-2018-7600
 #import here
 import argparse
